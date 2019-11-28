@@ -28,9 +28,8 @@ In case that you don´t have the package intaller __pip__, you can follow this l
 
 # Routines
 - Numpy Random Sampling
-  - [Random Sampling](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.choice.html#numpy.random.choice)
-  - 
-
+  - [numpy.random.choice](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.choice.html#numpy.random.choice)
+  - [numpy.random.normal](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.normal.html#numpy.random.normal)
 
 # Concepts
 
