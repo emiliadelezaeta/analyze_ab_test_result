@@ -39,5 +39,6 @@ The probability of obtaining the observed statistic or a "more extreme" value (b
 
 [What is a p_value?](https://rebeccaebarnes.github.io/2018/05/01/what-is-a-p-value)
 
-# Other libraries
+# Libraries
 
+- [scikit-learn](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.model_selection)
