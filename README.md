@@ -26,6 +26,12 @@ pip install statsmodels
 In case that you don´t have the package intaller __pip__, you can follow this link:
 [pip - The Python Package Installer](https://pip.pypa.io/en/stable/)
 
+# Routines
+- Numpy Random Sampling
+  - [Random Sampling](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.choice.html#numpy.random.choice)
+  - 
+
+
 # Concepts
 
 - **Statistical Concepts**
