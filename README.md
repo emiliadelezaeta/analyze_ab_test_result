@@ -48,3 +48,5 @@ In statistics, the logistic model is used to model the probability of a certain 
 # Libraries
 
 - [scikit-learn](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.model_selection)
+
+It's a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
