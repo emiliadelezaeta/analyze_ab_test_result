@@ -19,7 +19,7 @@ pip install pandas
  ```python
 pip install matplotlib
 ```   
-- -Statsmodels
+- Statsmodels
  ```python
 pip install statsmodels
 ```   
