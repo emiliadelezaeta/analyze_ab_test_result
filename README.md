@@ -28,10 +28,12 @@ In case that you don´t have the package intaller __pip__, you can follow this l
 
 # Concepts
 
-- **Basic Statistical Concepts**
+- **Statistical Concepts**
   - [Basic Terminology](https://newonlinecourses.science.psu.edu/statprogram/reviews/statistical-concepts/terminology)
   - [Confidence Intervals](https://newonlinecourses.science.psu.edu/statprogram/reviews/statistical-concepts/confidence-intervals)
   - [Hypothesis Testing](https://newonlinecourses.science.psu.edu/statprogram/reviews/statistical-concepts/hypothesis-testing)
+  - [Sampling Distribution](https://en.wikipedia.org/wiki/Sampling_distribution)
+  - [Normal Distribution](https://en.wikipedia.org/wiki/Normal_distribution)
   
 - **P-Value** 
 
