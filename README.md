@@ -39,6 +39,13 @@ The probability of obtaining the observed statistic or a "more extreme" value (b
 
 [What is a p_value?](https://rebeccaebarnes.github.io/2018/05/01/what-is-a-p-value)
 
+- **Logist Regression**
+
+In statistics, the logistic model (or logit model) is used to model the probability of a certain class or event existing such as pass/fail, win/lose, alive/dead or healthy/sick. This can be extended to model several classes of events such as determining whether an image contains a cat, dog, lion, etc... Each object being detected in the image would be assigned a probability between 0 and 1 and the sum adding to one.
+
+Explanatory variables --> quatitives, categoricals
+Outomes --> 2 (0 o 1) 
+
 # Libraries
 
 - [scikit-learn](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.model_selection)
