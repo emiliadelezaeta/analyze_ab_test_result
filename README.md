@@ -29,11 +29,11 @@ In case that you don´t have the package intaller __pip__, you can follow this l
 # Concepts
 
 - **Basic Statistical Concepts**
-  - [Basic Terminology] (https://newonlinecourses.science.psu.edu/statprogram/reviews/statistical-concepts/terminology)
+  - [Basic Terminology](https://newonlinecourses.science.psu.edu/statprogram/reviews/statistical-concepts/terminology)
   - [Confidence Intervals](https://newonlinecourses.science.psu.edu/statprogram/reviews/statistical-concepts/confidence-intervals)
   - [Hypothesis Testing](https://newonlinecourses.science.psu.edu/statprogram/reviews/statistical-concepts/hypothesis-testing)
   
-- **p_value** 
+- **P-Value** 
 
 The probability of obtaining the observed statistic or a "more extreme" value (by extreme we just mean more in favour of the alternate hypothesis mean) if the null hypothesis is true
 
