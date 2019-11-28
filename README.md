@@ -15,7 +15,7 @@ pip install numpy
 ```python
 pip install pandas
 ```
-- Matplolib
+- Matplotlib
  ```python
 pip install matplotlib
 ```   
