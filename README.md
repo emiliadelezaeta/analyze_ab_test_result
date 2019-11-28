@@ -7,7 +7,7 @@ A company has developed a new web page in order to try and increase the number o
 You will need an installation of Python, plus the following libraries:
 
   - [Anaconda](https://www.anaconda.com/distribution/)
-  - Numpy 
+  - NumPy 
 ```python
 pip install numpy
 ```
@@ -27,7 +27,7 @@ In case that you don´t have the package intaller __pip__, you can follow this l
 [pip - The Python Package Installer](https://pip.pypa.io/en/stable/)
 
 # Routines
-- Numpy Random Sampling
+- NumPy Random Sampling
   - [numpy.random.choice](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.choice.html#numpy.random.choice)
   - [numpy.random.normal](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.normal.html#numpy.random.normal)
 
